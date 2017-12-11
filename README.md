@@ -1,4 +1,4 @@
-# Cross Platform UI with Xamarin.Forms - Xamarin Dev Days 2017 Singapore
+# Cross Platform Native UI with Xamarin.Forms - Xamarin Dev Days 2017 Singapore
 
 Hosted by Microsoft Singapore, in collaboration wth Xamariners and Syncfusion.
 
